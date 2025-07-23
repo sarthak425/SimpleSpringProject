@@ -41,7 +41,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone[ https://github.com/your-username/your-repo-name.git](https://github.com/sarthak425)
 
 # Navigate to the project
 cd your-repo-name
